@@ -1,8 +1,16 @@
-arcade-minecraft-weapons/
-├── .github/
-│   └── workflows/
-│       └── makecode-build.yml
-├── .gitignore
-├── README.md
-├── pxt.json
-└── weapons.ts
+{
+    "name": "arcade-minecraft-weapons",
+    "version": "0.1.0",
+    "description": "A MakeCode Arcade extension adding classic Minecraft weapons and mechanics.",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "README.md",
+        "weapons.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
