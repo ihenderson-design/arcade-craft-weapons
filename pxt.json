@@ -1,0 +1,8 @@
+arcade-minecraft-weapons/
+├── .github/
+│   └── workflows/
+│       └── makecode-build.yml
+├── .gitignore
+├── README.md
+├── pxt.json
+└── weapons.ts
