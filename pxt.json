@@ -1,0 +1,19 @@
+{
+    "name": "arcade-craft-weapons",
+    "version": "0.0.1",
+    "description": "Omega-Protocol: Battle Royale Deployment and Ballistics",
+    "dependencies": {
+        "device": "*",
+        "arcade-raycasting": "github:microsoft/pxt-raycasting#v0.0.8"
+    },
+    "files": [
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.30"
+    }
+}
